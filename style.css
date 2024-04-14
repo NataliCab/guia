@@ -1,0 +1,25 @@
+.pri{
+margin:50px 0px;
+border:2px solid orange;
+background-color:171818;
+padding:10px;
+width:1000px;
+}
+
+
+
+.contenedor {
+margin:50px 0px;
+border:2px solid orange;
+background-color:171818;
+padding:10px;
+width:350px;
+}
+
+.saber {
+margin:50px 0px;
+border:3px solid #055A5A;
+background-color:171818;
+padding:10px;
+width:800px;
+}
